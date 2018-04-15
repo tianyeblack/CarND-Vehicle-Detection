@@ -31,7 +31,7 @@ Here I will consider the rubric points individually and describe how I addressed
 
 #### Provide a Writeup / README that includes all the rubric points and how you addressed each one
 
-You're reading it!
+This is it
 
 ### 2. Histogram of Oriented Gradients (HOG)
 
